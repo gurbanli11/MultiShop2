@@ -1,0 +1,8 @@
+C:\Users\orkha\OneDrive\Masaüstü\MultiShop\WebApplication1\obj\Debug\net8.0\MultiShop.csproj.AssemblyReference.cache
+C:\Users\orkha\OneDrive\Masaüstü\MultiShop\WebApplication1\obj\Debug\net8.0\MultiShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkha\OneDrive\Masaüstü\MultiShop\WebApplication1\obj\Debug\net8.0\MultiShop.AssemblyInfoInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\MultiShop\WebApplication1\obj\Debug\net8.0\MultiShop.AssemblyInfo.cs
+C:\Users\orkha\OneDrive\Masaüstü\MultiShop\WebApplication1\obj\Debug\net8.0\MultiShop.csproj.CoreCompileInputs.cache
+C:\Users\orkha\OneDrive\Masaüstü\MultiShop\WebApplication1\obj\Debug\net8.0\MultiShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\orkha\OneDrive\Masaüstü\MultiShop\WebApplication1\obj\Debug\net8.0\MultiShop.RazorAssemblyInfo.cache
+C:\Users\orkha\OneDrive\Masaüstü\MultiShop\WebApplication1\obj\Debug\net8.0\MultiShop.RazorAssemblyInfo.cs
